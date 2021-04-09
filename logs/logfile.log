@@ -1,0 +1,7 @@
+
+2021-03-03 11:40:06  TRACE welcome.login:120 New Registration | 		userID: null	User Name: JosephRocks	 User Level: null29
+2021-03-03 11:40:51  TRACE welcome.login:69 Login | 		userID: 29	User Name: JosephRocks	 User Level: t
+2021-03-03 11:41:14  TRACE welcome.login:76 Login | 		userID: 3	User Name: Admin	 User Level: a
+2021-03-03 11:41:53  TRACE welcome.AdminMenu:40 Approved
+2021-03-03 11:42:34  INFO welcome.AdminMenu:87 Updated User Level | 	UserID 13	User Name: BillyHatcher	User Level: t
+2021-03-03 11:43:57  TRACE welcome.login:72 Login | 		userID: 29	User Name: JosephRocks	 User Level: u
